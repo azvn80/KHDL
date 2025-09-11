@@ -1,101 +1,101 @@
-ThuNhap	ChiTieu	GioiTinh
-14	14	Nu
-24	24	Nu
-9	9	Nu
-50	33	Nu
-14	9	Nam
-23	18	Nu
-19	19	Nam
-37	37	Nu
-41	36	Nam
-38	4	Nam
-18	16	Nam
-44	8	Nu
-48	45	Nu
-40	25	Nam
-5	5	Nam
-37	37	Nu
-13	13	Nu
-31	45	Nam
-15	11	Nam
-42	6	Nam
-40	46	Nam
-33	33	Nam
-28	2	Nam
-36	36	Nu
-10	10	Nu
-10	10	Nu
-35	18	Nam
-32	32	Nam
-15	15	Nu
-37	37	Nu
-10	13	Nu
-35	35	Nu
-16	4	Nu
-8	8	Nam
-38	43	Nam
-15	15	Nam
-10	10	Nu
-37	4	Nu
-10	10	Nam
-21	21	Nu
-43	26	Nam
-33	7	Nam
-7	7	Nu
-37	26	Nam
-38	10	Nu
-15	15	Nam
-29	22	Nu
-10	10	Nam
-49	19	Nu
-25	25	Nu
-17	14	Nu
-45	45	Nu
-11	11	Nam
-18	18	Nu
-13	13	Nu
-18	6	Nu
-40	35	Nam
-17	37	Nam
-16	16	Nam
-42	58	Nam
-33	11	Nam
-38	3	Nam
-32	32	Nam
-26	9	Nu
-50	32	Nu
-10	14	Nam
-12	12	Nam
-30	23	Nam
-31	31	Nam
-47	10	Nu
-17	17	Nu
-25	25	Nu
-38	38	Nam
-46	46	Nu
-6	6	Nam
-44	13	Nu
-46	46	Nam
-36	17	Nu
-25	9	Nu
-11	31	Nu
-40	29	Nam
-46	46	Nam
-7	7	Nam
-29	5	Nam
-42	47	Nu
-7	52	Nu
-12	12	Nu
-34	34	Nu
-20	20	Nu
-6	6	Nam
-22	8	Nu
-23	15	Nam
-20	20	Nu
-16	16	Nu
-33	19	Nam
-34	2	Nam
-35	33	Nu
-46	18	Nam
-15	15	Nam
-43	10	Nu
+ThuNhap,ChiTieu,GioiTinh
+14,14,Nu
+24,24,Nu
+9,9,Nu
+50,33,Nu
+14,9,Nam
+23,18,Nu
+19,19,Nam
+37,37,Nu
+41,36,Nam
+38,4,Nam
+18,16,Nam
+44,8,Nu
+48,45,Nu
+40,25,Nam
+5,5,Nam
+37,37,Nu
+13,13,Nu
+31,45,Nam
+15,11,Nam
+42,6,Nam
+40,46,Nam
+33,33,Nam
+28,2,Nam
+36,36,Nu
+10,10,Nu
+10,10,Nu
+35,18,Nam
+32,32,Nam
+15,15,Nu
+37,37,Nu
+10,13,Nu
+35,35,Nu
+16,4,Nu
+8,8,Nam
+38,43,Nam
+15,15,Nam
+10,10,Nu
+37,4,Nu
+10,10,Nam
+21,21,Nu
+43,26,Nam
+33,7,Nam
+7,7,Nu
+37,26,Nam
+38,10,Nu
+15,15,Nam
+29,22,Nu
+10,10,Nam
+49,19,Nu
+25,25,Nu
+17,14,Nu
+45,45,Nu
+11,11,Nam
+18,18,Nu
+13,13,Nu
+18,6,Nu
+40,35,Nam
+17,37,Nam
+16,16,Nam
+42,58,Nam
+33,11,Nam
+38,3,Nam
+32,32,Nam
+26,9,Nu
+50,32,Nu
+10,14,Nam
+12,12,Nam
+30,23,Nam
+31,31,Nam
+47,10,Nu
+17,17,Nu
+25,25,Nu
+38,38,Nam
+46,46,Nu
+6,6,Nam
+44,13,Nu
+46,46,Nam
+36,17,Nu
+25,9,Nu
+11,31,Nu
+40,29,Nam
+46,46,Nam
+7,7,Nam
+29,5,Nam
+42,47,Nu
+7,52,Nu
+12,12,Nu
+34,34,Nu
+20,20,Nu
+6,6,Nam
+22,8,Nu
+23,15,Nam
+20,20,Nu
+16,16,Nu
+33,19,Nam
+34,2,Nam
+35,33,Nu
+46,18,Nam
+15,15,Nam
+43,10,Nu
