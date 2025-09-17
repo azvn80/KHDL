@@ -1,0 +1,112 @@
+[
+  {
+    "company": "Vietcombank",
+    "ticker": "VCB",
+    "exchange": "HOSE",
+    "sector": "Banking",
+    "price": 94000,
+    "market_cap_billion_VND": 4400000,
+    "pe": 12.8,
+    "pb": 3.0,
+    "dividend_yield_percent": 1.2
+  },
+  {
+    "company": "Vingroup",
+    "ticker": "VIC",
+    "exchange": "HOSE",
+    "sector": "Conglomerate",
+    "price": 47000,
+    "market_cap_billion_VND": 3800000,
+    "pe": 35.0,
+    "pb": 3.8,
+    "dividend_yield_percent": 0.0
+  },
+  {
+    "company": "Vinhomes",
+    "ticker": "VHM",
+    "exchange": "HOSE",
+    "sector": "Real Estate",
+    "price": 48000,
+    "market_cap_billion_VND": 2600000,
+    "pe": 9.5,
+    "pb": 1.8,
+    "dividend_yield_percent": 1.0
+  },
+  {
+    "company": "Vinamilk",
+    "ticker": "VNM",
+    "exchange": "HOSE",
+    "sector": "Consumer Staples",
+    "price": 74000,
+    "market_cap_billion_VND": 1550000,
+    "pe": 17.2,
+    "pb": 4.9,
+    "dividend_yield_percent": 3.5
+  },
+  {
+    "company": "PV Gas",
+    "ticker": "GAS",
+    "exchange": "HOSE",
+    "sector": "Energy",
+    "price": 96000,
+    "market_cap_billion_VND": 2300000,
+    "pe": 13.7,
+    "pb": 3.1,
+    "dividend_yield_percent": 2.0
+  },
+  {
+    "company": "BIDV",
+    "ticker": "BID",
+    "exchange": "HOSE",
+    "sector": "Banking",
+    "price": 52000,
+    "market_cap_billion_VND": 2400000,
+    "pe": 11.5,
+    "pb": 2.3,
+    "dividend_yield_percent": 1.0
+  },
+  {
+    "company": "VietinBank",
+    "ticker": "CTG",
+    "exchange": "HOSE",
+    "sector": "Banking",
+    "price": 35000,
+    "market_cap_billion_VND": 1700000,
+    "pe": 10.2,
+    "pb": 1.8,
+    "dividend_yield_percent": 1.5
+  },
+  {
+    "company": "Sabeco",
+    "ticker": "SAB",
+    "exchange": "HOSE",
+    "sector": "Consumer Staples",
+    "price": 79000,
+    "market_cap_billion_VND": 1270000,
+    "pe": 18.4,
+    "pb": 4.2,
+    "dividend_yield_percent": 2.2
+  },
+  {
+    "company": "Vincom Retail",
+    "ticker": "VRE",
+    "exchange": "HOSE",
+    "sector": "Retail REIT",
+    "price": 26000,
+    "market_cap_billion_VND": 770000,
+    "pe": 15.0,
+    "pb": 2.2,
+    "dividend_yield_percent": 0.8
+  },
+  {
+    "company": "Hoa Phat Group",
+    "ticker": "HPG",
+    "exchange": "HOSE",
+    "sector": "Materials",
+    "price": 28500,
+    "market_cap_billion_VND": 1680000,
+    "pe": 12.0,
+    "pb": 2.1,
+    "dividend_yield_percent": 1.8
+  }
+]
