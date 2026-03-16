@@ -1,0 +1,11 @@
+Sản phẩm,Giá bán,Lượng bán,Ngày bán,Loại SP
+Laptop,15.5,5,2024-01-10,Điện tử
+Chuột,0.25,20,2024-01-11,Phụ kiện
+Bàn phím,0.45,15,2024-01-12,Phụ kiện
+Màn hình,3.2,8,2024-01-13,Điện tử
+Tai nghe,0.85,12,2024-01-14,Phụ kiện
+Laptop,17.0,3,2024-01-15,Điện tử
+Chuột,0.27,25,2024-01-16,Phụ kiện
+Bàn phím,0.47,10,2024-01-17,Phụ kiện
+Màn hình,3.3,6,2024-01-18,Điện tử
+Tai nghe,0.92,14,2024-01-19,Phụ kiện
