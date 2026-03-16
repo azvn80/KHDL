@@ -1,0 +1,11 @@
+Họ tên,Giới tính,Chuyên ngành,Kết quả
+Nguyễn Văn An,Nam,Kinh tế,A
+Trần Thị Bình,Nữ,Quản trị,B
+Lê Minh Châu,Nữ,Tài chính,C
+Phạm Quang Dũng,Nam,Kinh tế,A
+Hoàng Thu Hà,Nữ,Quản trị,B
+Phan Thanh Long,Nam,Tài chính,C
+Đặng Ngọc Mai,Nữ,Kinh tế,A
+Bùi Gia Phúc,Nam,Quản trị,B
+Đỗ Thanh Tùng,Nam,Tài chính,C
+Võ Thị Lan,Nữ,Kinh tế,A
