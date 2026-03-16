@@ -1,11 +1,11 @@
-Họ và tên,Giới tính,Màu áo,Trình độ
-Nguyễn Văn An,Nam,Đỏ,Cử nhân
-Trần Thị Bình,Nữ,Xanh,Thạc sĩ
-Lê Minh Châu,Nữ,Vàng,Cử nhân
-Phạm Quang Dũng,Nam,Đỏ,Tiến sĩ
-Hoàng Thu Hà,Nữ,Xanh,Thạc sĩ
-Phan Thanh Long,Nam,Vàng,Cử nhân
-Đặng Ngọc Mai,Nữ,Đỏ,Tiến sĩ
-Bùi Gia Phúc,Nam,Xanh,Thạc sĩ
-Đỗ Thanh Tùng,Nam,Vàng,Cử nhân
-Võ Thị Lan,Nữ,Đỏ,Thạc sĩ
+Họ và tên,Giới tính,Màu áo
+Nguyễn Văn An,Nam,Đỏ
+Trần Thị Bình,Nữ,Xanh
+Lê Minh Châu,Nữ,Vàng
+Phạm Quang Dũng,Nam,Đỏ
+Hoàng Thu Hà,Nữ,Xanh
+Phan Thanh Long,Nam,Vàng
+Đặng Ngọc Mai,Nữ,Đỏ
+Bùi Gia Phúc,Nam,Xanh
+Đỗ Thanh Tùng,Nam,Vàng
+Võ Thị Lan,Nữ,Đỏ
