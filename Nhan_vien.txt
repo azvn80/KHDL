@@ -1,11 +1,11 @@
-,Họ,Tên,Năm sinh,Email,Phòng ban
-0,  nguyễn văn,anH,1 9 9 8, ANH.NGUYEN@GMAIL.COM , kinh doanh 
-1,TRẦN  thị,bÌnh,1 9 9 5,binh.tran@Yahoo.com,IT
-2, lê hoàng , CHÂU ,2 0 0 0, CHAU.LE@gmail.COM , Nhân sự
-3,PHẠM  minh,dŨng,1 9 9 7,dung.pham@GMAIL.com,ke toan
-4,hoàng  thu,HÀ,1 9 9 9,ha.hoang@outlook.COM ,Marketing 
-5, phan thanh , lan ,1 9 9 6,LAN.PHAN@Gmail.com,IT 
-6,ĐẶNG  ngọc,MINH,1 9 9 4,minh.dang@YAHOO.com ,nhan su
-7, bùi gia,ngỌc,2 0 0 1, ngoc.bui@gmail.com ,Kinh Doanh
-8,đỗ  thanh, PHÚC,1 9 9 3,PHUC.DO@GMAIL.COM, kế toán 
-9, võ thị ,thẢO ,1 9 9 8, thao.vo@Outlook.com ,marketing
+Họ,Tên,Năm sinh,Email,Phòng ban
+  nguyễn văn,anH,1 9 9 8, ANH.NGUYEN@GMAIL.COM , kinh doanh 
+TRẦN  thị,bÌnh,1 9 9 5,binh.tran@Yahoo.com,IT
+ lê hoàng , CHÂU ,2 0 0 0, CHAU.LE@gmail.COM , Nhân sự
+PHẠM  minh,dŨng,1 9 9 7,dung.pham@GMAIL.com,ke toan
+hoàng  thu,HÀ,1 9 9 9,ha.hoang@outlook.COM ,Marketing 
+ phan thanh , lan ,1 9 9 6,LAN.PHAN@Gmail.com,IT 
+ĐẶNG  ngọc,MINH,1 9 9 4,minh.dang@YAHOO.com ,nhan su
+ bùi gia,ngỌc,2 0 0 1, ngoc.bui@gmail.com ,Kinh Doanh
+đỗ  thanh, PHÚC,1 9 9 3,PHUC.DO@GMAIL.COM, kế toán 
+ võ thị ,thẢO ,1 9 9 8, thao.vo@Outlook.com ,marketing
