@@ -1,4 +1,4 @@
-OrderID,CustomerID,GiaTri
+OrderID,IDCustomer,GiaTri
 1001,101,250
 1002,102,450
 1003,101,300
